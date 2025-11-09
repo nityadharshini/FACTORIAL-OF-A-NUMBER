@@ -63,21 +63,14 @@ THIN:
 END
 
 **Output:**  
+![WhatsApp Image 2025-11-09 at 12 48 14_225fc943](https://github.com/user-attachments/assets/261c4d94-6dd5-4e35-9031-a4c8272e41dd)
 
-<br>
-<br>
-<br>
 
 
 
 **Manual Calculations:**  
+![WhatsApp Image 2025-11-09 at 12 52 06_7c027a02](https://github.com/user-attachments/assets/46d17f44-d66c-434f-8d6f-3cd595d0cb84)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
